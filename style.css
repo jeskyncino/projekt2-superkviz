@@ -60,6 +60,13 @@ h1 {
 	text-align: center;
 	color: black;
 }
+.otazka {
+	margin: 20px 0 30px 0;
+	font-size: 36px;
+	line-height: 1.2;
+	text-align: center;
+	color: black;
+}
 
 .obsah {
 	display: flex;
